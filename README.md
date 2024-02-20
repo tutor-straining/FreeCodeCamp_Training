@@ -1,5 +1,5 @@
 # Mi capacitación en FreeCodeCamp
 Repositorio para guardar los códigos de los proyectos en esta plataforma.
 
-## Cursos
+## Certificaciones
 - [Responsive Web Design](ResponsiveWebDesign/README.md)
